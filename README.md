@@ -22,5 +22,3 @@ Keywords: Multi-focus image fusion, Deep learning, Convolutional neural network,
 ![ECNN flowchat of fusion](https://github.com/mostafaaminnaji/ECNN/blob/master/Data/ECNN%20flowhart%20of%20fusion%20of%20two%20images.PNG)
 
 
-![comparision](https://github.com/mostafaaminnaji/ECNN/blob/master/Data/The%20initial%20and%20final%20segmentation%20map%20(with%20and%20without%20post-processing)%20of%20the%20proposed%20method%20of%20ECNN%20and%20the%20others%20for%20%E2%80%9CFlower%20%E2%80%9D%20image..PNG)
-
