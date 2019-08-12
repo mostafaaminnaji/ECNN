@@ -4,7 +4,7 @@ Ensemble of CNN for multi-focus image fusion code
 proposed in:
 M. Amin-Naji, A. Aghagolzadeh, and M. Ezoji, “Ensemble of CNN for Multi-Focus Image Fusion”, Information Fusion, vol. 51, pp. 21–214, 2019.  DOI: https://doi.org/10.1016/j.inffus.2019.02.003
 
-(C) Mostafa Amin-Naji, Babol Noshirvani University of Technology, Mostafa.Amin.Naji@Gmail.com, PLEASE CITE THE ABOVE PAPERS IF YOU USE THIS CODE My Official Website: www.Amin-Naji.com
+(C) Mostafa Amin-Naji, Babol Noshirvani University of Technology, Mostafa.Amin.Naji@Gmail.com, PLEASE CITE THE ABOVE PAPER IF YOU USE THIS CODE My Official Website: www.Amin-Naji.com
 
 Hint: These codes are written based on PyTorch (PyTorch is an open source machine learning library based on the Torch library)
 
