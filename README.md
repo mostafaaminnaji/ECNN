@@ -4,6 +4,8 @@ Ensemble of CNN for multi-focus image fusion code
 proposed in:
 M. Amin-Naji, A. Aghagolzadeh, and M. Ezoji, “Ensemble of CNN for Multi-Focus Image Fusion”, Information Fusion, vol. 51, pp. 21–214, 2019.  DOI: https://doi.org/10.1016/j.inffus.2019.02.003
 
+(C) Mostafa Amin-Naji, Babol Noshirvani University of Technology, Mostafa.Amin.Naji@Gmail.com, PLEASE CITE THE ABOVE PAPERS IF YOU USE THIS CODE My Official Website: www.Amin-Naji.com
+
 Hint: These codes are written based on PyTorch (PyTorch is an open source machine learning library based on the Torch library)
 
 Please do not hesitate to contact me if there is any bug in codes or question from the paper.
@@ -12,7 +14,7 @@ Abstract: The Convolutional Neural Networks (CNNs) based multi-focus image fusio
 
 Keywords: Multi-focus image fusion, Deep learning, Convolutional neural network, Ensemble learning, Decision map
 
-(C) Mostafa Amin-Naji, Babol Noshirvani University of Technology, Mostafa.Amin.Naji@Gmail.com, PLEASE CITE THE ABOVE PAPERS IF YOU USE THIS CODE My Official Website: www.Amin-Naji.com
+
 
 
 ![ECNN patch feeding](https://github.com/mostafaaminnaji/ECNN/blob/master/Data/The%20schematic%20diagram%20of%20generating%20three%20datasets%20according%20to%20the%20proposed%20patch%20feeding.PNG)
