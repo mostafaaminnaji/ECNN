@@ -12,5 +12,11 @@ Keywords: Multi-focus image fusion, Deep learning, Convolutional neural network,
 
 (C) Mostafa Amin-Naji, Babol Noshirvani University of Technology, Mostafa.Amin.Naji@Gmail.com, PLEASE CITE THE ABOVE PAPERS IF YOU USE THIS CODE My Official Website: www.Amin-Naji.com
 
+![ECNN flowchat of fusion](https://github.com/mostafaaminnaji/ECNN/blob/master/ECNN%20flowhart%20of%20fusion%20of%20two%20images.PNG)
 
+![ECNN Network](https://github.com/mostafaaminnaji/ECNN/blob/master/ECNN%20Network.PNG)
+
+![ECNN patch feeding](https://github.com/mostafaaminnaji/ECNN/blob/master/The%20schematic%20diagram%20of%20generating%20three%20datasets%20according%20to%20the%20proposed%20patch%20feeding.PNG)
+
+![comparision](https://github.com/mostafaaminnaji/ECNN/blob/master/The%20initial%20and%20final%20segmentation%20map%20(with%20and%20without%20post-processing)%20of%20the%20proposed%20method%20of%20ECNN%20and%20the%20others%20for%20%E2%80%9CFlower%20%E2%80%9D%20image..PNG)
 
