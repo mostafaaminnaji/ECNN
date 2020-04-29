@@ -1,6 +1,8 @@
 # ECNN
 Ensemble of CNN for multi-focus image fusion code 
 
+Date of update: 29 April 2020
+
 proposed in:
 M. Amin-Naji, A. Aghagolzadeh, and M. Ezoji, “Ensemble of CNN for Multi-Focus Image Fusion”, Information Fusion, vol. 51, pp. 21–214, 2019.  DOI: https://doi.org/10.1016/j.inffus.2019.02.003
 
